@@ -1,0 +1,11 @@
+.Btn {
+    background-color: #5863F8;
+    font-size: 13px;
+    max-width: 260px;
+    width: 100%;
+    border-style: none;
+    color: #fff;
+    height: 64px;
+    margin-left: 60px;
+}
+
